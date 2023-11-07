@@ -1,5 +1,5 @@
 # Description:  
-Program takes a fixed image location and converts said image into a .ico file
+Program takes images from `to_convert`, converts the images into a .ico files and saves them to `converted`
 
 ## Requirements:
 - None
